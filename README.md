@@ -1,4 +1,4 @@
-Sure, here's a basic README file for your Flask application:
+
 
 ---
 
@@ -80,4 +80,3 @@ This Flask application provides an API to manage banks and their branches.
 
 ---
 
-Feel free to customize this README further based on your specific project details or additional instructions you want to provide.
