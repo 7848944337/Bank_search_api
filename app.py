@@ -47,4 +47,5 @@ def get_branch_details(bank_id):
 def health_check():
     return jsonify({'status': 'Running'}), 200
 
-
+if __name__ == '__main__':
+    app.run(debug=True)
